@@ -35,17 +35,6 @@ root/
 - Formulario de contacto funcional
 - Código organizado por carpetas según su tipo (JS, CSS, imágenes)
 
-## Mejoras Futuras
-
-- Conexión con servicios backend o bases de datos
-- Integración con analítica (por ejemplo, Google Analytics)
-- Soporte completo multilenguaje
-- Animaciones avanzadas con librerías como AOS o GSAP
-
-## Contribuciones
-
-Las contribuciones están abiertas. Puedes abrir un issue o enviar un pull request para sugerencias o mejoras.
-
 ## Licencia
 
 Este proyecto se distribuye bajo la licencia MIT. Consulta el archivo LICENSE para más información.
